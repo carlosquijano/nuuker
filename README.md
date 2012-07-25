@@ -1,8 +1,8 @@
 Nuuker README
 =============
 
-PLEASE NOTE: THIS SOFTWARE IS UNDER DEVELOPMENT, IF YOU'RE INTERESTED VISIT NUUKER.COM FOR
-FURTHER INFORMATION.
+> PLEASE NOTE: THIS SOFTWARE IS UNDER DEVELOPMENT, IF YOU'RE INTERESTED VISIT 
+[nuuker.com](http://www.nuuker.com) FOR FURTHER INFORMATION.
 
 Nuuker is an opensource web publishing application designed with simplicity in mind, 
 it can be used from publishing dynamic content using core and third party modules called reactors, 
